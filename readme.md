@@ -1,2 +1,4 @@
 This is a demo for git new file.
-Thanks.
+Thanks..!
+
+Upadating first file
